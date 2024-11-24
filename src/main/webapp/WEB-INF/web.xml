@@ -3,7 +3,7 @@
   <display-name>Mind_Align</display-name>
   <welcome-file-list>
     <welcome-file></welcome-file>
-    <welcome-file>login.jsp</welcome-file>
+    <welcome-file>register.jsp</welcome-file>
     <welcome-file></welcome-file>
     <welcome-file></welcome-file>
     <welcome-file></welcome-file>
